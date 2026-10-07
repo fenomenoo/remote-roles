@@ -1,0 +1,6 @@
+# Generated output. Rerun pull_roles.py to rebuild.
+roles.csv
+*.csv
+SHORTLIST.md
+__pycache__/
+*.pyc
